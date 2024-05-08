@@ -17,7 +17,7 @@ import com.qa.opencart.pages.RegisterPage;
 import com.qa.opencart.pages.SearchPage;
 
 public class BaseTest {
-
+//Adding a comment to check the git push
 	DriverFactory df;
 	WebDriver driver;
 	protected Properties prop;
