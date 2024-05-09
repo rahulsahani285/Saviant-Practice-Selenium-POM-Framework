@@ -14,7 +14,7 @@ public class testigtest {
 		FileInputStream fis = new FileInputStream("C:\\Users\\rahul.n\\eclipse-workspace\\Selenium_Saviant_Framework\\src\\test\\resources\\Config\\config.properties");
 		prop.load(fis);
 		System.out.println(prop.getProperty("browser"));
-
+System.out.println("Addig somthing for Brnanch changes");
 	}
 
 }
